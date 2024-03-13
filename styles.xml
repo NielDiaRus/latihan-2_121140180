@@ -1,3 +1,4 @@
+<!-- Daniel Dianutama Barus_121140180 -->
 <style name="ButtonWithImage" parent="Widget.AppCompat.Button">
     <item name="android:background">@drawable/button_background_with_image</item>
     <item name="android:textColor">@color/button_text_color</item>
